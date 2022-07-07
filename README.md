@@ -1,2 +1,8 @@
-# nodasoft-task
-Test task for Nodasoft
+# Test task for **NodaSoft**
+
+## Features
+
+- Grid
+- Flex
+- Adaptivity
+- Pure CSS popup box
